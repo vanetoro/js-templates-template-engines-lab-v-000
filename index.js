@@ -1,3 +1,4 @@
+
 function createPost() {
   var postTitle = document.getElementById("postTitle").value;
   var postBody = document.getElementById("postBody").value;
